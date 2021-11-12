@@ -7,6 +7,7 @@ def yorguin():
 
 def jfochoa():
     print("John Ochoa")
+    return "John Ochoa"
 
 def Antonia():
       print('Antonia')
